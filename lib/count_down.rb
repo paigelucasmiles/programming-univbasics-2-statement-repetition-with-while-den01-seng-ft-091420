@@ -1,5 +1,5 @@
 countdown = 10
-while countdown is > 0
+while countdown > 0
   puts "#{countdown}"
   countdown = countdown - 1
 end
